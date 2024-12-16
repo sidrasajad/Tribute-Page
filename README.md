@@ -12,7 +12,7 @@ A simple and elegant tribute page built using HTML and CSS. This project was dev
 
 ## Screenshots
 
-![Tribute Page Screenshot](Tribute-Page/images/Tribute-Page.PNG)
+![Tribute Page Screenshot](images/Tribute-Page.PNG)
 
 ## Technologies Used
 
